@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "eCric",
+    "version": "1.0",
+    "description": "Displays Cricket news using API",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+      
+    },
+    "icons":{
+        "128": "Safeimagekit-resized-img.PNG"
+    }
+  }
+  
